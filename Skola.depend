@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1529313075 source:c:\users\aleksis\desktop\school\skola\src\skolotajs.cpp
+	"SkolotajsLogin.h"
+	"Skolotajs.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+
+1529313580 source:c:\users\aleksis\desktop\school\skola\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+
+1529311555 c:\users\aleksis\desktop\school\skola\include\admin.h
+
+1526893806 source:c:\users\aleksis\desktop\school\skola\main.cpp
+	<iostream>
+	<Admin.h>
+	"admin_log.h"
+	"Skolotajs.h"
+	<SkolotajsLogin.h>
+
+1529237406 c:\users\aleksis\desktop\school\skola\include\skolotajs.h
+
+1524755319 c:\users\aleksis\desktop\school\skola\include\admin_log.h
+
+1524772509 source:c:\users\aleksis\desktop\school\skola\src\admin_log.cpp
+	"admin_log.h"
+	<iostream>
+	<stdlib.h>
+	"Admin.h"
+
+1529237406 source:c:\users\aleksis\desktop\school\skola\src\skolotajslogin.cpp
+	"SkolotajsLogin.h"
+	"Skolotajs.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<conio.h>
+	<string>
+	<ctime>
+
+1529236828 c:\users\aleksis\desktop\school\skola\include\skolotajslogin.h
+
